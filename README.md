@@ -227,6 +227,8 @@ const testCases = [
 npm run build
 ```
 
+Deployment Link:[https://heartfelt-toffee-38c2f5.netlify.app/](url)
+
 ### Environment Variables
 ```env
 VITE_API_BASE_URL=your_api_endpoint
@@ -241,10 +243,6 @@ VITE_MAPS_API_KEY=your_maps_api_key
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **Indian Transportation Data**: Based on real-world pricing from major ride-sharing platforms
@@ -255,6 +253,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or support, please open an issue in the GitHub repository or contact the development team.
 
----
-
-**Built with ❤️ for the Indian ride-sharing ecosystem**
